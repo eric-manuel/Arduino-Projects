@@ -1,0 +1,7 @@
+Create a morse code program for LED using variables
+
+--------------------------------------------
+Create a circuit with 3 LED
+1st LED blink 5x fast
+2nd LED blink 10x slow
+3rd LED blink 15x really slow
